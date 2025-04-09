@@ -1,1 +1,1 @@
-# IT431_AuthAssignment
+# This is an Assignment for my IT 431 class
